@@ -4,8 +4,8 @@
   - Event loop: 🎓 known
   - `try..catch`: 🖐️ used
   - Non-blocking: 👂 heard
-  - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
+  - Async I/O u
+  - Thread pool u
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,13 +14,13 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks: 👂 heard
-  - Live locks
+  - Dead locks u
+  - Live locks k
   - Concurrent programming: 👂 heard
-  - Parallel programming: 🎓 known
+  - Parallel programming u
   - Actor Model: 👂 heard
-  - Thread: 🎓 known
-  - Process: 🎓 known
+  - Thread u
+  - Process u
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
@@ -29,17 +29,17 @@
   - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator u
   - Async Generator: 🎓 known
   - Async Iterator: 🎓 known
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream u
   - Chain of responsibility
-  - Middleware
-  - Locks: 👂 heard
+  - Middleware h
+  - Locks u
 - Async adapters and utils
   - callbackify: 🎓 known
   - promisify: 🎓 known
@@ -54,10 +54,10 @@
   - Transform
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
-  - Async Collector
-  - Semaphore: 👂 heard
-  - Mutex: 👂 heard
-  - Spin Lock
+  - Async Collector h
+  - Semaphore u
+  - Mutex u
+  - Spin Lock u
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
@@ -70,7 +70,7 @@
   - High resolution clock
   - Callback hell: 🖐️ used
   - Promise hell: 👂 heard
-  - ref() and unref()
+  - ref() and unref() k
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await
   - JSON streaming serialization
@@ -78,7 +78,7 @@
   - AsyncResource
 - Techniques
   - Async.js library: 👂 heard
-  - RxJS library
+  - RxJS library h
   - Promise.all: 🎓 known
   - Promise.allSettled: 🎓 known
   - Promise.race: 🎓 known
@@ -86,4 +86,4 @@
   - Web Locks API
   - IPC
   - Channel API
-  - Revealing constructor
+  - Revealing constructor k
