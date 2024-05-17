@@ -22,16 +22,16 @@
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection: 🖐️ used
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - DI containers h
+  - Coupling and cohesion k
+  - Framework agnostic approach h
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI
-  - Process-based permissions
+  - Process-based permissions k
   - Graceful shutdown
   - Clustering: 👂 heard
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch k
 - Internal API
   - Streams API: 👂 heard
   - Web Streams API
@@ -56,7 +56,7 @@
   - Generating crypto random UUID: 🎓 known
   - Module `node:url` vs `new URL`
   - Module `node:assert`: 🖐️ used
-  - Internationalization
+  - Internationalization h
   - Blob, File, Buffer, module `node:buffer`: 👂 heard
   - Module `node:zlib`
 - Network
@@ -116,14 +116,14 @@
   - `error.message`: 🖐️ used
   - `error.stack`: 🎓 known
   - `Error.captureStackTrace`: 🎓 known
-  - How to avoid mixins
+  - How to avoid mixins h
   - Uncaught exceptions: 🖐️ used
-  - Heap dump
+  - Heap dump k
   - Debugging tools: 🎓 known
   - Flame graph
-  - Memory leaks
-  - Resource leaks
-  - Data race
+  - Memory leaks h
+  - Resource leaks h
+  - Data race k
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons
