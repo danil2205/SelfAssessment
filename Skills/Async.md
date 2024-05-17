@@ -3,17 +3,17 @@
 - Theory
   - Event loop: 🎓 known
   - `try..catch`: 🖐️ used
-  - Non-blocking: 👂 heard
+  - Non-blocking k
   - Async I/O u
   - Thread pool u
   - Pattern Reactor
-  - CAS operations
+  - CAS operations k
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
-  - Race conditions
+  - libuv k
+  - Race conditions u
   - Dead locks u
   - Live locks k
   - Concurrent programming: 👂 heard
@@ -27,15 +27,15 @@
   - Thenable: 🖐️ used
   - Promise: 🎓 known
   - Async/await: 🖐️ used
-  - Future
-  - Deferred
+  - Future k
+  - Deferred h
   - Sync generator u
   - Async Generator: 🎓 known
   - Async Iterator: 🎓 known
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal u
   - Stream u
   - Chain of responsibility
   - Middleware h
@@ -64,9 +64,9 @@
   - `nextTick`: 🖐️ used
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
-  - Atomics: 👂 heard
+  - Promise unhandled rejection k
+  - Promise double resolve k
+  - Atomics u
   - High resolution clock
   - Callback hell: 🖐️ used
   - Promise hell: 👂 heard
