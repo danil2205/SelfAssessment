@@ -1,46 +1,46 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js k
+  - Stateful and stateless servers u
   - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - Event loop phases h
+  - Event loop microtasks and macrotasks h
+  - Garbage collection k
+  - Node.js LTS schedule k
+  - I/O-bound, CPU-bound, memory-bound tasks h
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules u
+  - ECMAScript modules u
+  - Module `node:module` u
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection u
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments u
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
+  - Clustering h
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API h
   - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
+  - Crypto API k
+  - Password hashing with crypto.scrypt k
+  - Web Crypto API k
   - File system API (sync and async)
   - Copy folder recursively
-  - Worker threads
+  - Worker threads h
   - Performance hooks
   - Native fetch and nodejs/undici
   - async_hooks
@@ -49,77 +49,77 @@
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads`
-  - Module `node:child_process`
-  - MessageChannel, MessagePort
-  - BroadcastChannel
-  - Generating crypto random UUID
+  - Module `node:worker_threads` h
+  - Module `node:child_process` h
+  - MessageChannel, MessagePort h
+  - BroadcastChannel h
+  - Generating crypto random UUID k
   - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Module `node:assert` u
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer` h
   - Module `node:zlib`
 - Network
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates h
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) h
+  - TCP/SSL h
+  - UDP h
+  - TLS h
+  - Websocket h
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST k
   - RPC
   - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - DoS h
+  - DDoS h
+  - XSS u
   - Path traversal
-  - CSRF
-  - DNS
-  - SQL injection
+  - CSRF u
+  - DNS h
+  - SQL injection u
   - noDelay
-  - keep-alive
-  - IP sticky sessions
+  - keep-alive h
+  - IP sticky sessions h
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Logging u
+  - Application configuring u
+  - Testing u
+  - CI/CD u
+  - Readable u
+  - Writable u
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer h
+  - Console u
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer u
+  - Repository u
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD u
+  - DTO u
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
+  - `Error` u
+  - `error.cause` k
+  - `error.code` u
+  - `error.message` u
+  - `error.stack` k
+  - `Error.captureStackTrace` k
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions u
   - Heap dump
-  - Debugging tools
+  - Debugging tools k
   - Flame graph
   - Memory leaks
   - Resource leaks
