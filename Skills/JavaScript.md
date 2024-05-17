@@ -76,7 +76,7 @@
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
   - `extends`: 🖐️ used
-  - `with`
+  - `with` k
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
