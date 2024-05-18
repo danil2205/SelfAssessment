@@ -16,7 +16,7 @@
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages u
+  - Domain-specific languages: 🖐️ used
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model: 👂 heard
@@ -25,7 +25,7 @@
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition k
+  - Class composition: 🎓 known
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
@@ -45,8 +45,8 @@
   - Hidden class: 🖐️ used
   - Object form: 🖐️ used
   - Instance: 🖐️ used
-  - Introspection u
-  - Reflection k
+  - Introspection: 🖐️ used
+  - Reflection: 🎓 known
   - The diamond problem
 - GRASP
   - Information expert: 🎓 known
@@ -61,12 +61,12 @@
   - Single-responsibility principle (SRP): 🖐️ used
   - Open–closed principle (OCP): 🖐️ used
   - Liskov substitution principle (LSP): 👂 heard
-  - Interface segregation principle (ISP) h
+  - Interface segregation principle (ISP): 👂 heard
   - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
   - Singleton: 🖐️ used
   - Factory Method
-  - Abstract Factory u
+  - Abstract Factory: 🖐️ used
   - Adapter
   - Observer: 👂 heard
   - Strategy
@@ -84,7 +84,7 @@
   - Flyweight
   - Mediator
   - Memento
-  - Template Method u
+  - Template Method: 🖐️ used
   - Visitor
   - Reactor
   - Active object

@@ -26,8 +26,8 @@
   - Optional chaining: 🖐️ used
   - IIFE: 🖐️ used
   - Async IIFE: 🖐️ used
-  - `global` k
-  - `globalThis` k
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
   - `window`: 🖐️ used
   - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
@@ -37,7 +37,7 @@
   - Logical Assignment: 🖐️ used
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
-  - `void` u
+  - `void`: 🖐️ used
   - `yield`: 🖐️ used
   - `await`: 🖐️ used
   - Template literal: 🖐️ used
@@ -51,7 +51,7 @@
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
   - Property descriptors: 🖐️ used
-  - Sealing properties k
+  - Sealing properties: 🎓 known
   - Freezing properties: 🎓 known
   - Computed properties: 🖐️ used
   - Instance class fields: 🖐️ used
@@ -71,12 +71,12 @@
   - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🖐️ used
-  - `label` k
+  - `label`: 🎓 known
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
   - `extends`: 🖐️ used
-  - `with` k
+  - `with`: 🎓 known
   - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
@@ -96,20 +96,20 @@
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
   - Typed arrays: 👂 heard
-  - Mixins k
-  - `Object.assign` u
+  - Mixins: 🎓 known
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
-  - `Reflect` h
+  - `Reflect`: 👂 heard
   - `Error`: 🖐️ used
-  - `Atomics` h
+  - `Atomics`: 👂 heard
   - `JSON`: 🖐️ used
-  - `WeakRef` k
-  - `FinalizationRegistry` h
-  - `Intl` h
+  - `WeakRef`: 🎓 known
+  - `FinalizationRegistry`: 👂 heard
+  - `Intl`: 👂 heard
   - `Promise`: 🎓 known
   - `console`: 🖐️ used
   - Timers: 🖐️ used
@@ -119,4 +119,4 @@
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
-  - TC39 h
+  - TC39: 👂 heard
